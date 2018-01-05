@@ -6,9 +6,9 @@ import (
 
 	"github.com/godbus/dbus"
 	"github.com/godbus/dbus/introspect"
-	"github.com/muka/go-bluetooth/bluez"
-	"github.com/muka/go-bluetooth/bluez/profile"
-	"github.com/tj/go-debug"
+	"github.com/dangerousHobo/go-bluetooth/bluez"
+	"github.com/dangerousHobo/go-bluetooth/bluez/profile"
+	"github.com/dangerousHobo/go-debug"
 )
 
 var dbg = debug.Debug("bluetooth:server")

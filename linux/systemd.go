@@ -4,7 +4,7 @@ import (
 	"errors"
 	sddbus "github.com/coreos/go-systemd/dbus"
 	"github.com/godbus/dbus"
-	"github.com/muka/go-bluetooth/bluez"
+	"github.com/dangerousHobo/go-bluetooth/bluez"
 )
 
 type result string

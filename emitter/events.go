@@ -5,7 +5,7 @@ import (
 	"strings"
 	"sync"
 
-	"github.com/tj/go-debug"
+	"github.com/dangerousHobo/go-debug"
 )
 
 var dbg = debug.Debug("bluetooth:emitter")

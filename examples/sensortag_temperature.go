@@ -1,10 +1,10 @@
 package examples
 
 import (
-	"github.com/muka/go-bluetooth/api"
-	"github.com/muka/go-bluetooth/devices"
+	"github.com/dangerousHobo/go-bluetooth/api"
+	"github.com/dangerousHobo/go-bluetooth/devices"
 	"github.com/prometheus/common/log"
-	debug "github.com/tj/go-debug"
+	debug "github.com/dangerousHobo/go-debug"
 )
 
 var dbg = debug.Debug("bluetooth:main")

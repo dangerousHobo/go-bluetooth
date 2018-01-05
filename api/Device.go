@@ -7,11 +7,11 @@ import (
 	"strings"
 
 	"github.com/godbus/dbus"
-	"github.com/muka/go-bluetooth/bluez"
-	"github.com/muka/go-bluetooth/bluez/profile"
-	"github.com/muka/go-bluetooth/emitter"
-	"github.com/muka/go-bluetooth/util"
-	"github.com/tj/go-debug"
+	"github.com/dangerousHobo/go-bluetooth/bluez"
+	"github.com/dangerousHobo/go-bluetooth/bluez/profile"
+	"github.com/dangerousHobo/go-bluetooth/emitter"
+	"github.com/dangerousHobo/go-bluetooth/util"
+	"github.com/dangerousHobo/go-debug"
 )
 
 var dbgDevice = debug.Debug("bluez:api:Device")

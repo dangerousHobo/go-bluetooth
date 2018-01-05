@@ -1,5 +1,5 @@
 package profile
 
-import "github.com/tj/go-debug"
+import "github.com/dangerousHobo/go-debug"
 
 var dbg = debug.Debug("bluetooth:bluez:profile")

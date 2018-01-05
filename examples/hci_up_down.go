@@ -2,7 +2,7 @@ package examples
 
 import (
 	log "github.com/Sirupsen/logrus"
-	"github.com/muka/go-bluetooth/linux"
+	"github.com/dangerousHobo/go-bluetooth/linux"
 )
 
 //HciUpDownExample hciconfig up / down

@@ -5,7 +5,7 @@ import (
 
 	"github.com/fatih/structs"
 	"github.com/godbus/dbus"
-	"github.com/muka/go-bluetooth/bluez"
+	"github.com/dangerousHobo/go-bluetooth/bluez"
 )
 
 // NewGattDescriptor1 create a new GattDescriptor1 client

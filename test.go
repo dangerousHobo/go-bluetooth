@@ -2,7 +2,7 @@ package main
 
 import (
 	"github.com/godbus/dbus"
-	"github.com/tj/go-debug"
+	"github.com/dangerousHobo/go-debug"
 )
 
 var dbg = debug.Debug("dbus:test")

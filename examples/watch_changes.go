@@ -4,8 +4,8 @@ import (
 	"strings"
 	"time"
 
-	"github.com/muka/go-bluetooth/api"
-	"github.com/muka/go-bluetooth/emitter"
+	"github.com/dangerousHobo/go-bluetooth/api"
+	"github.com/dangerousHobo/go-bluetooth/emitter"
 )
 
 var dumpAddress = "B0:B4:48:C9:4B:01"

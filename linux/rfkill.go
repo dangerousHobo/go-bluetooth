@@ -11,7 +11,7 @@ import (
 	"strings"
 
 	log "github.com/Sirupsen/logrus"
-	"github.com/tj/go-debug"
+	"github.com/dangerousHobo/go-debug"
 )
 
 var dbg = debug.Debug("bluetooth:linux")

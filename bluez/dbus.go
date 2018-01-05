@@ -4,7 +4,7 @@ import (
 	"errors"
 
 	"github.com/godbus/dbus"
-	"github.com/tj/go-debug"
+	"github.com/dangerousHobo/go-debug"
 )
 
 var dbg = debug.Debug("bluetooth:bluez:dbus")

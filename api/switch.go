@@ -4,8 +4,8 @@ import (
 	"errors"
 	"strconv"
 
-	"github.com/muka/go-bluetooth/linux"
-	"github.com/tj/go-debug"
+	"github.com/dangerousHobo/go-bluetooth/linux"
+	"github.com/dangerousHobo/go-debug"
 )
 
 var dbgSwitch = debug.Debug("bluez:switch")

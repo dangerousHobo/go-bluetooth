@@ -4,11 +4,11 @@ import (
 	"errors"
 
 	"github.com/godbus/dbus"
-	"github.com/tj/go-debug"
+	"github.com/dangerousHobo/go-debug"
 
-	"github.com/muka/go-bluetooth/bluez"
-	"github.com/muka/go-bluetooth/bluez/profile"
-	"github.com/muka/go-bluetooth/emitter"
+	"github.com/dangerousHobo/go-bluetooth/bluez"
+	"github.com/dangerousHobo/go-bluetooth/bluez/profile"
+	"github.com/dangerousHobo/go-bluetooth/emitter"
 )
 
 var dbg = debug.Debug("bluetooth:api")

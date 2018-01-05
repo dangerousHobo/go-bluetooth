@@ -2,7 +2,7 @@ package profile
 
 import (
 	"github.com/godbus/dbus"
-	"github.com/muka/go-bluetooth/bluez"
+	"github.com/dangerousHobo/go-bluetooth/bluez"
 )
 
 // NewObjectManager create a new Device1 client

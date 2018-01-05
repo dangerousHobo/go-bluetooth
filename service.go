@@ -3,11 +3,11 @@ package main
 import (
 	log "github.com/Sirupsen/logrus"
 	"github.com/godbus/dbus"
-	"github.com/muka/go-bluetooth/api"
-	"github.com/muka/go-bluetooth/bluez"
-	"github.com/muka/go-bluetooth/bluez/profile"
-	"github.com/muka/go-bluetooth/emitter"
-	"github.com/muka/go-bluetooth/service"
+	"github.com/dangerousHobo/go-bluetooth/api"
+	"github.com/dangerousHobo/go-bluetooth/bluez"
+	"github.com/dangerousHobo/go-bluetooth/bluez/profile"
+	"github.com/dangerousHobo/go-bluetooth/emitter"
+	"github.com/dangerousHobo/go-bluetooth/service"
 )
 
 const (

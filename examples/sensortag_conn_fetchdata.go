@@ -11,10 +11,10 @@
 package main
 
 import (
-	"github.com/muka/go-bluetooth/api"
-	"github.com/muka/go-bluetooth/devices"
+	"github.com/dangerousHobo/go-bluetooth/api"
+	"github.com/dangerousHobo/go-bluetooth/devices"
 	logging "github.com/op/go-logging"
-	"github.com/muka/go-bluetooth/emitter"
+	"github.com/dangerousHobo/go-bluetooth/emitter"
 	"sync"
 	"time"
 )
