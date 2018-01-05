@@ -11,11 +11,11 @@
 package main
 
 import (
-	"github.com/muka/go-bluetooth/api"
+	"github.com/dangerousHobo/go-bluetooth/api"
 	"github.com/op/go-logging"
 	"sync"
 	"time"
-	"github.com/muka/go-bluetooth/bluez/profile/obex"
+	"github.com/dangerousHobo/go-bluetooth/bluez/profile/obex"
 	"os"
 )
 
